@@ -1,0 +1,255 @@
+[
+  {
+    "id": 12,
+    "productImgLocation": "/Motorola G35 5G .jpg",
+    "name": "Motorola G35 5G (Electric Blue, 6GB RAM 128GB Storage)",
+    "rating": 4.1,
+    "price": 15999,
+    "features": {
+      "one": "6 GB RAM | 128 GB ROM",
+      "two": "16.94 cm (6.5 inch) LCD Display",
+      "three": "64MP + 8MP + 2MP | 16MP Front Camera",
+      "four": "5000 mAh Battery",
+      "five": "Dimensity 700 Processor",
+      "six": "IP52 Water Resistance"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Motorola"
+  },
+  {
+    "id": 13,
+    "productImgLocation": "/Moto G85 5G (256, Olive Green, New).jpg",
+    "name": "Moto G85 5G (Olive Green, 8GB RAM 256GB Storage)",
+    "rating": 4.5,
+    "price": 22999,
+    "features": {
+      "one": "8 GB RAM | 256 GB ROM",
+      "two": "17.02 cm (6.6 inch) Full HD+ OLED Display",
+      "three": "108MP + 8MP | 32MP Front Camera",
+      "four": "5100 mAh Battery",
+      "five": "Snapdragon 780G Processor",
+      "six": "Dolby Atmos Dual Speakers"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Motorola"
+  },
+  {
+    "id": 9,
+    "productImgLocation": "/Samsung Galaxy S25 Ultra.jpg",
+    "name": "Samsung Galaxy S25 Ultra (Phantom Black, 12GB RAM 256GB Storage)",
+    "rating": 4.8,
+    "price": 124999,
+    "features": {
+      "one": "12 GB RAM | 256 GB ROM",
+      "two": "17.27 cm (6.8 inch) Dynamic AMOLED 2X Display",
+      "three": "200MP + 12MP + 10MP + 10MP | 40MP Front Camera",
+      "four": "5000 mAh Battery",
+      "five": "Exynos 2400 Processor",
+      "six": "S Pen Support"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Samsung"
+  },
+  {
+    "id": 14,
+    "productImgLocation": "/Nokia 105 Classic.jpg",
+    "name": "Nokia 105 Classic (Black, Dual SIM)",
+    "rating": 4.0,
+    "price": 1299,
+    "features": {
+        "one": "Compact and Durable Design",
+        "two": "1.8-inch QQVGA Display",
+        "three": "Long-Lasting Battery",
+        "four": "FM Radio & MP3 Player",
+        "five": "Preloaded Games",
+        "six": "Dual SIM Support"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Nokia"
+},
+  {
+    "id": 10,
+    "productImgLocation": "/Redmi Note 14 5G.jpg",
+    "name": "Redmi Note 14 5G (Midnight Black, 8GB RAM 128GB Storage)",
+    "rating": 4.2,
+    "price": 17999,
+    "features": {
+      "one": "8 GB RAM | 128 GB ROM",
+      "two": "16.94 cm (6.67 inch) AMOLED Display",
+      "three": "50MP + 8MP | 16MP Front Camera",
+      "four": "5020 mAh Battery",
+      "five": "Dimensity 810 Processor",
+      "six": "5G Connectivity"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Redmi"
+  },
+  {
+    "id": 11,
+    "productImgLocation": "/samsung galaxy s23 ultra.jpg",
+    "name": "Samsung Galaxy S23 Ultra (Green, 12GB RAM 512GB Storage)",
+    "rating": 4.9,
+    "price": 118999,
+    "features": {
+      "one": "12 GB RAM | 512 GB ROM",
+      "two": "17.27 cm (6.8 inch) QHD+ Dynamic AMOLED 2X Display",
+      "three": "200MP + 12MP + 10MP + 10MP | 40MP Front Camera",
+      "four": "5000 mAh Battery",
+      "five": "Snapdragon 8 Gen 2 Processor",
+      "six": "120Hz Refresh Rate"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Samsung"
+  },
+
+  {
+    "id": 1,
+    "productImgLocation": "/samsung01.jpg",
+    "name": "Galaxy M15 5G (Titan Black, 8GB RAM 128GB Storage)",
+    "rating": 4.2,
+    "price": 12000,
+    "features": {
+      "one": "6 GB RAM | 128 GB ROM ",
+      "two": "16.94 cm (6.67 inch) Full HD+ Display",
+      "three": "50MP + 2MP | 16MP Front Camera",
+      "four": "5000 mAh Battery",
+      "five": "Dimensity 7050 Processor",
+      "six": "In-display Fingerprint Sensor"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Samsung"
+  },
+  {
+    "id": 2,
+    "productImgLocation": "/one1.jpg",
+    "name": "One Plus+ 5G (Titan Black, 8GB RAM 128GB Storage)",
+    "rating": 3.8,
+    "price": 21000,
+    "features": {
+      "one": "10 GB RAM | 228 GB ROM ",
+      "two": "16.94 cm (10.67 inch) Full HD+ Display",
+      "three": "125MP + 5MP | 16MP Front Camera",
+      "four": "4000 mAh Battery",
+      "five": "Dimensity 1250 Processor",
+      "six": "Water Resistant Design"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "OnePlus"
+  },
+  {
+    "id": 3,
+    "productImgLocation": "/phone2.jpg",
+    "name": "IQOO Z9x 5G (Titan Black, 16GB RAM 256GB Storage)",
+    "rating": 4.7,
+    "price": 7000,
+    "features": {
+      "one": "16 GB RAM | 256 GB ROM",
+      "two": "17.02 cm (6.7 inch) QHD+ Display",
+      "three": "50MP + 48MP + 32MP  Camera",
+      "four": "5000 mAh Battery",
+      "five": "Snapdragon 8 Gen 2 Processor",
+      "six": "120Hz Refresh Rate"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "IQOO"
+  },
+  {
+    "id": 4,
+    "productImgLocation": "/phone1.jpg",
+    "name": "Redmi Note 14 (Titan Black, 10GB RAM 228GB Storage)",
+    "rating": 3.5,
+    "price": 10499,
+    "features": {
+      "one": "10 GB RAM | 228 GB ROM ",
+      "two": "16.94 cm (10.67 inch) Full HD+ Display",
+      "three": "125MP + 5MP | 16MP Front Camera",
+      "four": "4000 mAh Battery",
+      "five": "Dimensity 1250 Processor",
+      "six": "Dual Stereo Speakers"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Redmi"
+  },
+  {
+    "id": 5,
+    "productImgLocation": "/iphne14.jpg",
+    "name": "iPhone 14 (Titan Black, 6GB RAM 128GB Storage)",
+    "rating": 4.9,
+    "price": 80000,
+    "features": {
+      "one": "6 GB RAM | 128 GB ROM",
+      "two": "15.49 cm (6.1 inch)  XDR Display",
+      "three": "12MP + 12MP | 12MP Front Camera",
+      "four": "3279 mAh Battery",
+      "five": "A15 Bionic Chip",
+      "six": "Face ID"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Apple"
+  },
+  {
+    "id": 6,
+    "productImgLocation": "/Redmi12.jpg",
+    "name": "Redmi 12 (Titan Black, 8GB RAM 128GB Storage)",
+    "rating": 4.3,
+    "price": 18000,
+    "features": {
+      "one": "8 GB RAM | 128 GB ROM ",
+      "two": "16.94 cm (6.67 inch) AMOLED Display",
+      "three": "50MP + 8MP + 2MP | 16MP Front Camera",
+      "four": "5000 mAh Battery",
+      "five": "Snapdragon 685 Processor",
+      "six": "AI Scene Detection"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Redmi"
+  },
+  {
+    "id": 7,
+    "productImgLocation": "/pxel7.jpg",
+    "name": "Pixel 7 (Titan Black, 8GB RAM 128GB Storage)",
+    "rating": 4.6,
+    "price": 55000,
+    "features": {
+      "one": "8 GB RAM | 128 GB ROM",
+      "two": "16.94 cm (6.3 inch) FHD+ Display",
+      "three": "50MP + 12MP | 10.8MP Front Camera",
+      "four": "4355 mAh Battery",
+      "five": "Google Tensor G2 Processor",
+      "six": "Titan M2 Security Chip"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Google"
+  },
+  {
+    "id": 8,
+    "productImgLocation": "/vivo30.jpg",
+    "name": "Vivo V30 (Titan Black, 12GB RAM 256GB Storage)",
+    "rating": 4.4,
+    "price": 30000,
+    "features": {
+      "one": "12 GB RAM | 256 GB ROM",
+      "two": "16.94 cm (6.78 inch) AMOLED Display",
+      "three": "50MP + 8MP + 2MP | 50MP Front Camera",
+      "four": "4600 mAh Battery",
+      "five": "Dimensity 7200 Processor",
+      "six": "Ultra Slim Design"
+    },
+    "isInCart": false,
+    "quantity": 1,
+    "brandName": "Vivo"
+  }
+]
