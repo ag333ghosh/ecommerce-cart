@@ -1,7 +1,7 @@
 [
   {
     "id": 12,
-    "productImgLocation": "/Motorola G35 5G .jpg",
+    "productImgLocation": "/ecommerce-cart/Motorola G35 5G .jpg",
     "name": "Motorola G35 5G (Electric Blue, 6GB RAM 128GB Storage)",
     "rating": 4.1,
     "price": 15999,
@@ -19,7 +19,7 @@
   },
   {
     "id": 13,
-    "productImgLocation": "/Moto G85 5G (256, Olive Green, New).jpg",
+    "productImgLocation": "/ecommerce-cart/Motorola G35 5G .jpg",
     "name": "Moto G85 5G (Olive Green, 8GB RAM 256GB Storage)",
     "rating": 4.5,
     "price": 22999,
@@ -37,7 +37,7 @@
   },
   {
     "id": 9,
-    "productImgLocation": "/Samsung Galaxy S25 Ultra.jpg",
+    "productImgLocation": "/ecommerce-cart/Samsung Galaxy S25 Ultra.jpg",
     "name": "Samsung Galaxy S25 Ultra (Phantom Black, 12GB RAM 256GB Storage)",
     "rating": 4.8,
     "price": 124999,
@@ -55,25 +55,25 @@
   },
   {
     "id": 14,
-    "productImgLocation": "/Nokia 105 Classic.jpg",
+    "productImgLocation": "/ecommerce-cart/Nokia 105 Classic.jpg",
     "name": "Nokia 105 Classic (Black, Dual SIM)",
     "rating": 4.0,
     "price": 1299,
     "features": {
-        "one": "Compact and Durable Design",
-        "two": "1.8-inch QQVGA Display",
-        "three": "Long-Lasting Battery",
-        "four": "FM Radio & MP3 Player",
-        "five": "Preloaded Games",
-        "six": "Dual SIM Support"
+      "one": "Compact and Durable Design",
+      "two": "1.8-inch QQVGA Display",
+      "three": "Long-Lasting Battery",
+      "four": "FM Radio & MP3 Player",
+      "five": "Preloaded Games",
+      "six": "Dual SIM Support"
     },
     "isInCart": false,
     "quantity": 1,
     "brandName": "Nokia"
-},
+  },
   {
     "id": 10,
-    "productImgLocation": "/Redmi Note 14 5G.jpg",
+    "productImgLocation": "/ecommerce-cart/Redmi Note 14 5G.jpg",
     "name": "Redmi Note 14 5G (Midnight Black, 8GB RAM 128GB Storage)",
     "rating": 4.2,
     "price": 17999,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "productImgLocation": "/samsung galaxy s23 ultra.jpg",
+    "productImgLocation": "/ecommerce-cart/samsung galaxy s23 ultra.jpg",
     "name": "Samsung Galaxy S23 Ultra (Green, 12GB RAM 512GB Storage)",
     "rating": 4.9,
     "price": 118999,
@@ -107,10 +107,9 @@
     "quantity": 1,
     "brandName": "Samsung"
   },
-
   {
     "id": 1,
-    "productImgLocation": "/samsung01.jpg",
+    "productImgLocation": "/ecommerce-cart/samsung01.jpg",
     "name": "Galaxy M15 5G (Titan Black, 8GB RAM 128GB Storage)",
     "rating": 4.2,
     "price": 12000,
@@ -128,7 +127,7 @@
   },
   {
     "id": 2,
-    "productImgLocation": "/one1.jpg",
+    "productImgLocation": "/ecommerce-cart/one1.jpg",
     "name": "One Plus+ 5G (Titan Black, 8GB RAM 128GB Storage)",
     "rating": 3.8,
     "price": 21000,
@@ -146,7 +145,7 @@
   },
   {
     "id": 3,
-    "productImgLocation": "/phone2.jpg",
+    "productImgLocation": "/ecommerce-cart/phone2.jpg",
     "name": "IQOO Z9x 5G (Titan Black, 16GB RAM 256GB Storage)",
     "rating": 4.7,
     "price": 7000,
@@ -164,7 +163,7 @@
   },
   {
     "id": 4,
-    "productImgLocation": "/phone1.jpg",
+    "productImgLocation": "/ecommerce-cart/phone1.jpg",
     "name": "Redmi Note 14 (Titan Black, 10GB RAM 228GB Storage)",
     "rating": 3.5,
     "price": 10499,
@@ -182,7 +181,7 @@
   },
   {
     "id": 5,
-    "productImgLocation": "/iphne14.jpg",
+    "productImgLocation": "/ecommerce-cart/iphne14.jpg",
     "name": "iPhone 14 (Titan Black, 6GB RAM 128GB Storage)",
     "rating": 4.9,
     "price": 80000,
@@ -200,7 +199,7 @@
   },
   {
     "id": 6,
-    "productImgLocation": "/Redmi12.jpg",
+    "productImgLocation": "/ecommerce-cart/Redmi12.jpg",
     "name": "Redmi 12 (Titan Black, 8GB RAM 128GB Storage)",
     "rating": 4.3,
     "price": 18000,
@@ -218,7 +217,7 @@
   },
   {
     "id": 7,
-    "productImgLocation": "/pxel7.jpg",
+    "productImgLocation": "/ecommerce-cart/pxel7.jpg",
     "name": "Pixel 7 (Titan Black, 8GB RAM 128GB Storage)",
     "rating": 4.6,
     "price": 55000,
@@ -236,7 +235,7 @@
   },
   {
     "id": 8,
-    "productImgLocation": "/vivo30.jpg",
+    "productImgLocation": "/ecommerce-cart/vivo30.jpg",
     "name": "Vivo V30 (Titan Black, 12GB RAM 256GB Storage)",
     "rating": 4.4,
     "price": 30000,
@@ -253,3 +252,4 @@
     "brandName": "Vivo"
   }
 ]
+
