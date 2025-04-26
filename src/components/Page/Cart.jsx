@@ -1,4 +1,3 @@
-
 import { useEffect } from 'react';
 import CartItem from '../card/CartItem'
 import CheckOut from '../card/CheckOut'

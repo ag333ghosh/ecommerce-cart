@@ -54,7 +54,7 @@ export default function ProductList({product}) {
     }
 
     const viewProductInfo = (id) => {
-        navigate(`/productInfo/${id}`)
+        navigate(`/ecommerce-cart/productInfo/${id}`)
     }
 
 

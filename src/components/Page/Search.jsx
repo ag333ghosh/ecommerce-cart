@@ -25,7 +25,7 @@ function Search() {
     <div className="w-full h-[535px] overflow-x-auto p-4 flex flex-col">
       <span
         // navigating to previous page from where search is called
-        onClick={() => navigate(location.state?.from || "/")}
+        onClick={() => navigate(location.state?.from || "/ecommerce-cart")}
         className=" w-[8%] left-2  text-gray-800 hover:cursor-pointer"
       >
         ← Back

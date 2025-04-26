@@ -11,7 +11,7 @@ function ProtectedRoute() {
   }
 
   return auth.user ? (<Outlet />) // outlet is CART_PAGE
-    : (<Navigate to="/login" replace />)
+    : (<Navigate to="/ecommerce-cart/login" replace />)
 }
 export default ProtectedRoute;
 

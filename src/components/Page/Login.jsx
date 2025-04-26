@@ -114,7 +114,7 @@ const LoginSignup = () => {
                 {/* Right Side: Image */}
                 <div className="w-1/2 hidden md:block">
                     <img
-                        src="/login.jpg"
+                        src="/ecommerce-cart/login.jpg"
                         alt="Login Illustration"
                         className="h-full w-full object-cover"
                     />

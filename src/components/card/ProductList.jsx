@@ -15,7 +15,7 @@ export default function ProductList({ product }) {
   // Format price with commas
   const formatPrice = (price) => price.toLocaleString("en-IN");
 
-  const viewProductInfo = () => navigate(`/productInfo/${id}`);
+  const viewProductInfo = () => navigate(`/ecommerce-cart/productInfo/${id}`);
 
   /* 
     <img

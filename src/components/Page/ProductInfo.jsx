@@ -39,7 +39,7 @@ function ProductInfo() {
 
     const handleAddToCart = () => {
         dispatch(addToCart({ ...product, quantity: productCount, price: product.price * productCount }))
-        navigate(`/cart`);
+        navigate(`/ecommerce-cart/cart`);
     };
 
 
@@ -47,7 +47,7 @@ function ProductInfo() {
         <div className="flex flex-col items-center bg-gray-100 h-[535px] ">
             {product ? (
                 <div className="bg-white shadow-lg rounded-lg p-5 w-full ">
-                    <button onClick={() => navigate("/")} className="text-gray-600 hover:text-black flex items-center mb-[18px] hover:cursor-pointer">
+                    <button onClick={() => navigate("/ecommerce-cart")} className="text-gray-600 hover:text-black flex items-center mb-[18px] hover:cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6 mr-2">
                             <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
                         </svg>

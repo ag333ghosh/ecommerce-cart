@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useReducer, useState } from "react";
+import { createContext, useContext, useEffect, useReducer } from "react";
 
 const productContext = createContext({});
 
@@ -71,7 +71,7 @@ export const ProductContextProvider = ({ children }) => {
 
     async function getProductById(id) {
         try {
-            const response = await fetch("/products.json");
+            const response = await fetch("/ecommerce-cart/products.json");
             const data = await response.json();
             const foundData = data.find(item => item.id === id);
             dispatch({ type: "GET_PRODUCT_BY_ID", payload: foundData });
@@ -82,7 +82,7 @@ export const ProductContextProvider = ({ children }) => {
 
     async function searchByBrandName(brandName) {
         try {
-            const response = await fetch("/products.json");
+            const response = await fetch("/ecommerce-cart/products.json");
             const data = await response.json();
             const foundData = data.filter(item => item.brandName === brandName)
             dispatch({ type: "GET_MATCHED_PRODUCTS", payload: foundData });

@@ -25,7 +25,7 @@ export default function Header() {
     const handleSearch = (e) => {
         e.preventDefault();
         if (searchValue.trim()) {
-            navigate(`/search?q=${searchValue}`, { state: { from: location.pathname } })
+            navigate(`/ecommerce-cart/search?q=${searchValue}`, { state: { from: location.pathname } })
 
         }
         setResults([]);
@@ -76,7 +76,7 @@ export default function Header() {
             <div className="flex flex-wrap items-center justify-between mx-auto py-2 px-3 ">
 
                 {/* Logo / Branding */}
-                <NavLink to="/" className="flex items-center space-x-3">
+                <NavLink to="/ecommerce-cart" className="flex items-center space-x-3">
                     <span className="text-white text-2xl font-semibold">💰 Shopping App</span>
                 </NavLink>
 
@@ -124,7 +124,7 @@ export default function Header() {
                 <ul className="flex items-center space-x-4">
 
                     <NavLink
-                        to="/"
+                        to="/ecommerce-cart"
                         className={({ isActive }) =>
                             `text-2xl transition-colors duration-300 ${isActive ? "text-yellow-300" : "text-yellow-500"
                             }`
@@ -134,7 +134,7 @@ export default function Header() {
                     </NavLink>
                     <li>
                         <NavLink
-                            to="/cart"
+                            to="/ecommerce-cart/cart"
                             className={({ isActive }) =>
                                 `text-2xl transition-colors duration-300 ${isActive ? "text-yellow-300" : "text-yellow-500"
                                 }`
@@ -144,7 +144,7 @@ export default function Header() {
                         </NavLink>
                     </li>
                     {!user && (<li>
-                        <NavLink to="/login" className="text-2xl text-yellow-500">
+                        <NavLink to="/ecommerce-cart/login" className="text-2xl text-yellow-500">
                             <i className="fa-solid fa-right-to-bracket"></i>
                         </NavLink>
                     </li>)}
